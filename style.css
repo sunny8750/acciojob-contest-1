@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color: white;
+}
+.input{
+    width: 100%;
+    outline: 0;
+    border-width:0 0 2px;
+    border-color: white;
+    margin-bottom: 11px;
+    padding-bottom: 11px;
+    background-color: black;
+    color: white;
+
+}
+::placeholder{
+    color: white;
+}
+button{
+    padding: 7px 40px 7px 40px;
+
+}
